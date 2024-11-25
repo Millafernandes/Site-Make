@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "glacial-indifference";
+    src: url("../src/assets/GlacialIndifference-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: "glacial-indifference", Times, Serif;
+    background-color: #fff3e9;
+}
+
+
